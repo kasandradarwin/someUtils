@@ -1,3 +1,4 @@
+//product of two numbers
 function product (num1, num2) {
     console.log(num1 * num2)
 
@@ -5,4 +6,10 @@ function product (num1, num2) {
 
 product(5,5)
 
-console.log("hi")
+// divides two numbers
+
+function divide(num1,num2){
+console.log(num1/num2)
+
+}
+
