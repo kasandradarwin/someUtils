@@ -29,3 +29,5 @@ function subtract(num1, num2){
 
 subtract(5,5)
 
+//----Jason's code
+function add(num1,num2) {return num1 + num2}
